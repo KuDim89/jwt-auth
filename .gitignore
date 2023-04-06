@@ -1,0 +1,22 @@
+# IDE Specific Files/Directories
+.idea
+.vscode
+*.iml
+*.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Coverage info
+/coverage
+**/*/coverage
+
+# Package manager
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+#yarn.lock
+
+# Env files
+*.env
+tmp
